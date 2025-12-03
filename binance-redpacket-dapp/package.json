@@ -1,0 +1,11 @@
+{
+  "name": "binance-redpacket-dapp",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm ci && npm run build"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
