@@ -1,7 +1,7 @@
 import { useAccount, useReadContract, useWriteContract } from 'wagmi'
 import { useEffect, useState } from 'react'
 
-const POOL_ADDRESS = "0xYOUR_POOL_ADDRESS" // 部署后替换
+const POOL_ADDRESS = "0xbCfDA13c51fb56ED877a541fC7394E01Bc166313" // 部署后替换
 const ABI = [ /* 复制 openRedEnvelope 和 lastOpenTime 的 ABI */ ] as const
 
 export default function RedEnvelopeButton() {
@@ -49,4 +49,5 @@ export default function RedEnvelopeButton() {
       开抢红包
     </button>
   )
+
 }
