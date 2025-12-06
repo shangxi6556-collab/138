@@ -29,6 +29,9 @@ export default function App() {
       <p style={{ fontSize: '1.8rem', marginBottom: '40px' }}>
         每小时开抢一次 · 持有 ≥ 20,000  即可参与
       </p>
+       <p style={{ fontSize: '1.8rem', marginBottom: '20px' }}>
+        CA:
+      </p>
 
       <ConnectButton />
 
@@ -55,3 +58,4 @@ export default function App() {
   )
 
 }
+
