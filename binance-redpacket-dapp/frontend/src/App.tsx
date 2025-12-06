@@ -30,7 +30,7 @@ export default function App() {
         每小时开抢一次 · 持有 ≥ 20,000币安红包  即可参与
       </p>
        <p style={{ fontSize: '1.8rem', marginBottom: '20px' }}>
-        CA:123456
+        CA:0x00000000000000
       </p>
 
       <ConnectButton />
@@ -58,6 +58,7 @@ export default function App() {
   )
 
 }
+
 
 
 
