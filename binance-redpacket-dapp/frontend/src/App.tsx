@@ -30,7 +30,8 @@ export default function App() {
         每小时开抢一次 · 持有 ≥ 20,000币安红包  即可参与
       </p>
      <p style={{ fontSize: '1.8rem', marginBottom: '25px' }}>
-       @xx
+      官方唯一推特：@BNBRedPacketBSC
+
       </p>
        <p style={{ fontSize: '1.8rem', marginBottom: '20px' }}>
         CA:0x00000000000000
@@ -61,6 +62,7 @@ export default function App() {
   )
 
 }
+
 
 
 
