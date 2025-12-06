@@ -59,8 +59,9 @@ export default function CountdownTimer() {
       </div>
 
       <p style={{ margin: '20px 0 0 0', fontSize: '1.5rem', opacity: 0.9 }}>
-        每小时整点准时开抢！快叫朋友一起来！
+        每小时整点准时开抢！持有代币需超过一小时！
       </p>
     </div>
   )
+
 }
