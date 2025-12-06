@@ -29,6 +29,13 @@ export default function App() {
       <p style={{ fontSize: '1.8rem', marginBottom: '40px' }}>
         每小时开抢一次 · 持有 ≥ 20,000币安红包  即可参与
       </p>
+      <!-- 加个推特链接，超醒目 -->
+<div style="margin:30px 0;">
+  <a href="https://twitter.com/你的推特用户名" target="_blank" style="color:white; font-size:24px; text-decoration:none;">
+    <img src="https://abs.twimg.com/favicons/favicon.ico" width="32" height="32" style="vertical-align:middle; margin-right:10px;">
+    关注官方 Twitter：@你的推特用户名
+  </a>
+</div>
        <p style={{ fontSize: '1.8rem', marginBottom: '20px' }}>
         CA:0x00000000000000
       </p>
@@ -58,6 +65,7 @@ export default function App() {
   )
 
 }
+
 
 
 
